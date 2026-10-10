@@ -12,7 +12,8 @@ Standard external monitors on macOS have a narrow menu bar (~24–31 pt). **Tall
 ![Standard Menu Bar](screenshots/before.png)
 
 ### After (TallBar Active — 50 pt Spacious Height)
-![TallBar Active](screenshots/after.png)
+
+<img width="1500" height="120" alt="image" src="https://github.com/user-attachments/assets/c8f42572-4446-4754-8651-4b1d6c43d864" />
 
 ---
 
